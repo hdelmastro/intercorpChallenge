@@ -23,11 +23,11 @@ mvn spring-boot:run
 
 ## Pruebas ⚙️
 
-_Desde la documentación Swagger_
+_Desde la documentación Swagger:_
 
 https://intercorp-challenge.herokuapp.com/swagger-ui.html#/
 
-_O de forma local_
+_O, de forma local:_
 
 _Para crear nuevos clientes puede hacer un POST al siguientes endpoint:_
 

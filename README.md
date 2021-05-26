@@ -4,11 +4,11 @@ _API para la obtencion de diversos datos de clientes registrados_
 
 ## Comenzando 🚀
 
-_A continuación se detalla los paso para la puesta en funcionamiento de forma local de la aplicación para la obtencion de cotizaciones._
+_A continuación se detalla los paso para la puesta en funcionamiento de forma local de la aplicación._
 
 ### Pre-requisitos 📋
 
-_Debes tener instalado JAVA jdk 1.11 o posterior (https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html)._
+_Debes tener instalado JAVA jdk 1.8 o posterior (https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html)._
 
 _Y Maven para poder compilar el proyecto (https://maven.apache.org/download.cgi)._
 
@@ -22,6 +22,12 @@ mvn spring-boot:run
 ```
 
 ## Pruebas ⚙️
+
+_Desde la documentasion Swagger_
+
+https://intercorp-challenge.herokuapp.com/swagger-ui.html#/
+
+_O de forma local_
 
 _Para crear nuevos clientes puede hacer un POST al siguientes endpoint:_
 

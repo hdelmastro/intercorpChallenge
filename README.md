@@ -23,7 +23,7 @@ mvn spring-boot:run
 
 ## Pruebas ⚙️
 
-_Desde la documentasion Swagger_
+_Desde la documentación Swagger_
 
 https://intercorp-challenge.herokuapp.com/swagger-ui.html#/
 

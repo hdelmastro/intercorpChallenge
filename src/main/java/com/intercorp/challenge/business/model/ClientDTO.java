@@ -11,6 +11,10 @@ import java.time.LocalDate;
 @Setter
 public class ClientDTO {
 
+    public ClientDTO() {
+        super();
+    }
+
     public ClientDTO(Long id, String name, String lastName, Integer age, LocalDate birthDate) {
         this.id = id;
         this.name = name;

@@ -36,11 +36,10 @@ http://localhost:8080/intercorp/client
 ```
 ```Body
 {
-  "age": 0,
-  "birthDate": "string",
-  "id": 0,
-  "lastName": "string",
-  "name": "string"
+  "age": 5,
+  "birthDate": "1985-05-05",
+  "lastName": "Perez",
+  "name": "Juan"
 }
 ```
 

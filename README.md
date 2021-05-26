@@ -13,7 +13,7 @@ _Debes tener instalado JAVA jdk 1.11 o posterior (https://www.oracle.com/ar/java
 _Y Maven para poder compilar el proyecto (https://maven.apache.org/download.cgi)._
 
 
-### Instalación 🔧
+### Instalación Local🔧
 
 _Una vez clonado el repositorio dirigirse a la carpeta de descarga, para ejecutarlo debe correr la siguiente linea de commandos:_
 
@@ -51,6 +51,8 @@ http://localhost:8080/intercorp/kpideclientes
 ## Construido con 🛠️
 
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [Sring Boot](https://spring.io/projects/spring-boot/) 
+* [Lombok](https://projectlombok.org/) 
 
 ## Autores ✒️
 

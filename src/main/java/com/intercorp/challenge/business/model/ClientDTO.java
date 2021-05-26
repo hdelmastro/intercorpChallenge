@@ -12,6 +12,7 @@ import java.time.LocalDate;
 public class ClientDTO {
 
     public ClientDTO() {
+
         super();
     }
 
